@@ -15,6 +15,7 @@
 		AA413851245915CC00A113E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA41384F245915CC00A113E2 /* LaunchScreen.storyboard */; };
 		AA41385C245915CC00A113E2 /* Stage3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA41385B245915CC00A113E2 /* Stage3Tests.swift */; };
 		AA413867245915CC00A113E2 /* Stage3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA413866245915CC00A113E2 /* Stage3UITests.swift */; };
+		AA6CC4E624591C55001DA8F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA6CC4E524591C55001DA8F7 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		AA413862245915CC00A113E2 /* Stage3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Stage3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA413866245915CC00A113E2 /* Stage3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stage3UITests.swift; sourceTree = "<group>"; };
 		AA413868245915CC00A113E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA6CC4E524591C55001DA8F7 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				AA41384F245915CC00A113E2 /* LaunchScreen.storyboard */,
 				AA413852245915CC00A113E2 /* Info.plist */,
 				AA41384C245915CC00A113E2 /* Preview Content */,
+				AA6CC4E524591C55001DA8F7 /* Main.storyboard */,
 			);
 			path = Stage3;
 			sourceTree = "<group>";
@@ -243,6 +246,7 @@
 				AA413851245915CC00A113E2 /* LaunchScreen.storyboard in Resources */,
 				AA41384E245915CC00A113E2 /* Preview Assets.xcassets in Resources */,
 				AA41384B245915CC00A113E2 /* Assets.xcassets in Resources */,
+				AA6CC4E624591C55001DA8F7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
